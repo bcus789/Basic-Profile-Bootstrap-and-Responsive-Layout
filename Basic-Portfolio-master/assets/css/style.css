@@ -1,0 +1,134 @@
+body {
+    background-color: black;
+    color: aliceblue;
+    display: block;
+    margin: 40px;
+}
+h1{
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 35px;
+    color: rgb(126, 204, 235);
+    text-align: center;
+    background: #333;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 6px;
+}
+h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 2px;
+    line-height: 20px;
+    font-size: 14px;
+}
+h3{
+    color: rgb(86, 184, 184);
+    display: block;
+    text-align: center;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 6px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
+h4{
+    text-align: center;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 6px;
+}
+h5{
+    text-align: center;
+}
+p{
+    color: blanchedalmond;
+    display: block;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+
+}
+img{
+    display: block;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+}
+#lyrics{
+    display: block;
+    padding: 20px;
+    float: left;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    line-height: 29px;
+    font-size: 16px;
+}
+.resp-container{
+    padding-bottom: 350px;
+    display: block;
+}
+iframe{
+    display: block;
+    position:absolute;
+    padding-left: auto;
+    padding-right: auto;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.centerFrame{
+    display: block;
+    padding: 20px;
+    padding-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    display: block;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    clear: both;
+    padding-top: 30px;
+    letter-spacing: 4px;
+}
+.bottomLine{
+    display: block;
+    position: relative;
+    padding: 0;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    height: 0;
+    width: 100%;
+    max-height: 0;
+    font-size: 1px;
+    line-height: 0;
+    clear: both;
+    border: none;
+    border-top: 1px solid #aaaaaa;
+    border-bottom: 1px solid #ffffff;
+ }   
+}
+.topLine {
+    display: block;
+    position: relative;
+    padding: 0;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    height: 0;
+    width: 100%;
+    max-height: 0;
+    font-size: 1px;
+    line-height: 0;
+    clear: both;
+    border: none;
+    border-top: 1px solid #aaaaaa;
+    border-bottom: 1px solid #ffffff;
+ }
+
+
